@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding system platforms and create apps.
 - 🌱 I’m currently learning PhP frameworks and python.
 - 💞️ I’m looking to collaborate on every language there is.
-- 📫 How to reach me @daugywyne IG 
+- 📫 How to reach me x.com @daugywyne
 
 <!---
 dmageria/dmageria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
